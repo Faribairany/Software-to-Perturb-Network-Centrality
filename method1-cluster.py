@@ -1,1 +1,0 @@
-#removes an edge from the cluster if both end points are in high core no(1st and 2nd core, innermost and second innermost), if none of these edges are available then remove it 
